@@ -1,0 +1,7 @@
+{
+  "name": "Defacto LabelLens Pro",
+  "description": "Enterprise-grade client-side utility for extracting high-fidelity structured data from garment labels and shipping manifests using Gemini 3 Flash Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
